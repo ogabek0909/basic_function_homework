@@ -2,7 +2,7 @@
 
 //  Return the value "Hello World"
 String func() {
-  return "hello world";
+  return "Hello World";
 }
 
 void main() {
